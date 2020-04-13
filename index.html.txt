@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Faerlina Funzone</h1>
+<p>Fun fact: Alliance > Horde</p>
+</body>
+</html>
