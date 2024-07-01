@@ -1,0 +1,39 @@
+h1 {
+    color: forestgreen; /*3rd*/
+    font-family: monospace; /*7th*/
+  }
+h2 {
+    color:seagreen; /*4th*/
+    font-family: monospace; /*7th*/
+}
+  p {
+    color: black;
+  }
+ul {
+  border: 2px solid greenyellow; /*5th!!!!*/
+}
+
+ol {
+  border: 2px solid greenyellow; /*5th!!!!*/
+}
+
+ol, ul {
+  padding: 5px 20px;
+  border-radius: 4px;
+}
+/* h1, strong {
+    color: purple; //2nd
+  } */
+strong {
+    color:darkred;
+}
+/*8th */
+  em {
+    color: darkred;
+  }
+  body {
+    background-color: tan; /*1st*/
+  }
+hr {
+    color:blueviolet; /*6th*/
+}
