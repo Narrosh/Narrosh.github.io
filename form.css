@@ -2,14 +2,15 @@
 
 
 /* form styling */
-
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 select:focus, select:active, input:focus, input:active, input:focus + label, input:active + label, label[for]:focus, label[for]:active {
 	color: #FFF !important;
 	background-color: #BB3D2F !important;
 }
 legend {
 	font-style: italic;
-	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #formcol1 input.reqfield {
 		background:#FF9;
@@ -24,14 +25,19 @@ div#formcol1 {
 	float:left;	
 	width: 100%;
 }
+/* input[type="radio"] {
+  width: auto;
+} */
 label {
 	text-align: right;
 	margin-right: .3em;
-	width: 5.27em;
+	width: 6.27em;
 	display: inline-block;
 	
 }
-
+/* div#multchoice {
+	width: 9.27em;
+} */
 #formcol1 li {
 	list-style:none;
 }
